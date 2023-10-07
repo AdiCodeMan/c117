@@ -1,0 +1,21 @@
+body
+{
+   background-color: rgb(222, 239, 255)
+}
+
+#score{
+    font-size:large;
+    margin-right:800px;
+    font-weight: 700;
+}
+
+#timer{
+    font-size:large;
+    margin-left:800px;
+    font-weight: 700;
+}
+
+#STBD{
+    color:red;
+    font-size: medium;
+}
